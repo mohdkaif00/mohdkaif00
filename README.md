@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mohd Kaif
+- 👀 I’m interested in making interactive Websites,Data Management and Software Development.
+- 🌱 I’m currently learning Java 
+- 📫 How to reach me: Contact:9518459696 email:mohdkaif071@gmail.com
